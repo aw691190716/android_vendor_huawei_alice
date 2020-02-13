@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="gb2312"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Config>
   <Template> <!--Makeup template size, current only support 128 -->
     <PreviewSize>128</PreviewSize>
@@ -14,7 +14,7 @@
     <EyeConfidenceThreshold>150</EyeConfidenceThreshold><!-- valid value is 0 - 1000, 0 or a number smaller than 0 can disable the eye confidence judgement functions.-->
     <MouthConfidenceThreshold>200</MouthConfidenceThreshold><!-- valid value is 0 - 1000, 0 or a number smaller than 0 can disable the mouth confidence judgement functions.-->
   </Others>
-  <Mode> <!--1 º«Ê½Âã×±-->
+  <Mode> <!--1 éŸ©å¼è£¸å¦†-->
     <BY_SSm_ratio>90</BY_SSm_ratio>
     <BY_SSm_size>100</BY_SSm_size>
     <BY_SBr_ratio>270</BY_SBr_ratio>
@@ -38,7 +38,7 @@
     <BY_EMu_templateIdx>01</BY_EMu_templateIdx>
     <BY_ELs_Ratio>70</BY_ELs_Ratio>
   </Mode>
-  <Mode> <!--4 ¿É°®°Å±È×±-->
+  <Mode> <!--4 å¯çˆ±èŠ­æ¯”å¦†-->
     <BY_SSm_ratio>100</BY_SSm_ratio>
     <BY_SSm_size>100</BY_SSm_size>
     <BY_SBr_ratio>300</BY_SBr_ratio>
@@ -62,7 +62,7 @@
     <BY_EMu_templateIdx>06</BY_EMu_templateIdx>
     <BY_ELs_Ratio>70</BY_ELs_Ratio>
   </Mode>
-  <Mode> <!--5 ÇåÐÂ×ÔÈ»-->
+  <Mode> <!--5 æ¸…æ–°è‡ªç„¶-->
     <BY_SSm_ratio>90</BY_SSm_ratio>
     <BY_SSm_size>100</BY_SSm_size>
     <BY_SBr_ratio>270</BY_SBr_ratio>
@@ -86,7 +86,7 @@
     <BY_EMu_templateIdx>05</BY_EMu_templateIdx>
     <BY_ELs_Ratio>70</BY_ELs_Ratio>
   </Mode>
-  <Mode> <!--7 ÌðÃÀÉÙÅ®×±-->
+  <Mode> <!--7 ç”œç¾Žå°‘å¥³å¦†-->
     <BY_SSm_ratio>90</BY_SSm_ratio>
     <BY_SSm_size>100</BY_SSm_size>
     <BY_SBr_ratio>270</BY_SBr_ratio>
@@ -110,7 +110,7 @@
     <BY_EMu_templateIdx>07</BY_EMu_templateIdx>
     <BY_ELs_Ratio>70</BY_ELs_Ratio>
   </Mode>
-  <Mode> <!--8 ·ÛÄÛÌÒ»¨×±-->
+  <Mode> <!--8 ç²‰å«©æ¡ƒèŠ±å¦†-->
     <BY_SSm_ratio>100</BY_SSm_ratio>
     <BY_SSm_size>100</BY_SSm_size>
     <BY_SBr_ratio>300</BY_SBr_ratio>
@@ -134,7 +134,7 @@
     <BY_EMu_templateIdx>08</BY_EMu_templateIdx>
     <BY_ELs_Ratio>70</BY_ELs_Ratio>
   </Mode>
-  <Mode> <!--12 ÃÎ»ÃÑÌÑ¬×±-->
+  <Mode> <!--12 æ¢¦å¹»çƒŸç†å¦†-->
     <BY_SSm_ratio>100</BY_SSm_ratio>
     <BY_SSm_size>100</BY_SSm_size>
     <BY_SBr_ratio>300</BY_SBr_ratio>
@@ -158,7 +158,7 @@
     <BY_EMu_templateIdx>12</BY_EMu_templateIdx>
     <BY_ELs_Ratio>85</BY_ELs_Ratio>
   </Mode>
-  <Mode> <!--14 ¼ÙÈÕÅÉ¶Ô×±-->
+  <Mode> <!--14 å‡æ—¥æ´¾å¯¹å¦†-->
     <BY_SSm_ratio>100</BY_SSm_ratio>
     <BY_SSm_size>100</BY_SSm_size>
     <BY_SBr_ratio>300</BY_SBr_ratio>
@@ -182,7 +182,7 @@
     <BY_EMu_templateIdx>14</BY_EMu_templateIdx>
     <BY_ELs_Ratio>70</BY_ELs_Ratio>
   </Mode>
-  <Mode> <!--15 ÓÅÑÅÃûæÂ×±-->
+  <Mode> <!--15 ä¼˜é›…ååª›å¦†-->
     <BY_SSm_ratio>90</BY_SSm_ratio>
     <BY_SSm_size>100</BY_SSm_size>
     <BY_SBr_ratio>270</BY_SBr_ratio>
